@@ -1,7 +1,7 @@
 # superset-playground
 
 * goal: make control-panel items to nested list which can be Collapsible Lists.
-* what: looks like this one: ![result](/images/collapsiblelists.png) <!-- .element height="30%" width="30%" -->
+* what: looks like this one: ![result](/images/CollapsibleLists.png) <!-- .element height="30%" width="30%" -->
 * why: to organiz items into categories.
 * how: use material-ui nested list.
 
