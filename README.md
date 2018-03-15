@@ -8,3 +8,4 @@ organiz control panel control items into categories using Collapsible Lists
 * [document file](/docs/list.md)
 * [src file](/src/ControlPanelsContainer.jsx)
 
+license: Apache 2.0
