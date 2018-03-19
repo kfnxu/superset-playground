@@ -1,7 +1,7 @@
 # superset-playground
 
 * goal: make control-panel, chart, dashboad can be stand alone or combined, controled by url parameter.
-* what: looks like this one: ![result](/images/CollapsibleLists.png) <!-- .element height="30%" width="30%" -->
+* what: looks like this one: ![result](/images/individiual.container.png) <!-- .element height="30%" width="30%" -->
 * why: allow user use them individiually. 
 * how: render them individually. 
 
