@@ -1,4 +1,8 @@
 # superset-playground
+control-panel to slide out and slide in from leftside
+* [document file](/docs/slideout.panel.md)
+* [src file](/src/drawer/ControlPanelsContainer.jsx )
+
 render control-panel, chart and dashboard individiually or combine them all in one
 * [document file](/docs/standalone.md)
 * [src file](/src/standalone/view.jsx)
