@@ -1,4 +1,7 @@
 # superset-playground
+add new dependency for dynamic chart-setting
+* [document file](/docs/dynamic.chart.setting.md)
+
 control-panel to slide out and slide in from leftside
 * [document file](/docs/slideout.panel.md)
 * [src file](/src/drawer/ControlPanelsContainer.jsx )
