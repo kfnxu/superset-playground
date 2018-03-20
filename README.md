@@ -1,6 +1,10 @@
 # superset-playground
 add new dependency for dynamic chart-setting
 * [document file](/docs/dynamic.chart.setting.md)
+* [src file](/src/dependency/core.py)
+* [src file](/src/dependency/simpleflow.py)
+* [src file](/src/dependency/graph.py)
+* [src file](/src/dependency/update.relationship.cypher)
 
 control-panel to slide out and slide in from leftside
 * [document file](/docs/slideout.panel.md)
