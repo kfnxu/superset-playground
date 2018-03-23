@@ -1,6 +1,10 @@
 # superset-playground
 workflow for adding or enabling a 'input-control' in control-panel.
 * [document file](/docs/add.control.workflow.md)
+* [src file](/src/add-control-workflow/simpleflow.py)
+* [src file](/src/add-control-workflow/core.py)
+* [src file](/src/add-control-workflow/graph.py)
+* [src file](/src/add-control-workflow/controls.js)
 
 add new dependency for dynamic chart-setting
 * [document file](/docs/dynamic.chart.setting.md)
